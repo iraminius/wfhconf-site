@@ -1,5 +1,5 @@
 ---
-title: 🏠WHFConf
+title: 🏠WFHConf
 subtitle: Work From Home Conference
 layout: layouts/base.njk
 ---
